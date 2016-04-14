@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./locitheologicit04gerhgoog/locitheologicit04gerhgoog_0296.png"; bbox 0 0 5017 6675; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 689 3254 1387 3336">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 689 3254 1387 3336">
+     <span class='ocr_line' id='line_1_1' title="bbox 689 3254 1387 3336; baseline -0.004 -16"><span class='ocrx_word' id='word_1_1' title='bbox 689 3256 884 3336; x_wconf 79' lang='lat' dir='ltr'><strong>Gerhard,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 912 3254 1061 3319; x_wconf 73' lang='lat' dir='ltr'><strong>Johmn</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1337 3256 1387 3317; x_wconf 75' lang='grc' dir='ltr'><strong>ΒΤ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 689 3359 1387 3543">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 689 3359 1387 3543">
+     <span class='ocr_line' id='line_1_2' title="bbox 740 3359 1387 3438; baseline -0.003 -14"><span class='ocrx_word' id='word_1_4' title='bbox 740 3360 835 3424; x_wconf 74' lang='lat' dir='ltr'>Loci</span> <span class='ocrx_word' id='word_1_5' title='bbox 863 3359 1109 3438; x_wconf 70' lang='lat' dir='ltr'><strong>theologici</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1140 3375 1212 3422; x_wconf 80' lang='lat' dir='ltr'><strong>cum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1339 3359 1387 3430; x_wconf 81' lang='grc'><strong>70</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 689 3463 1380 3543; baseline 0.009 -17"><span class='ocrx_word' id='word_1_8' title='bbox 689 3480 762 3543; x_wconf 84' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 790 3463 1038 3527; x_wconf 74' lang='lat' dir='ltr'><strong>adstruenda</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1063 3463 1331 3532; x_wconf 68' lang='lat' dir='ltr'><strong>veritate...</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1368 3505 1380 3532; x_wconf 83' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2514 6675">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2514 6675">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2514 6675; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2514 6675; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
